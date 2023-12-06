@@ -1,0 +1,529 @@
+Year,Month,Themes in the Picture,Climate Change Related? (Y/N),Binary,Relatad to Environment? (Y/N),Binary,Quantity (Parts Per Million),Percent
+2023,1,Human Exploration,N,0,N,0,419.48,0.31
+2023,2,Art,N,0,N,0,420.3,0.24
+2023,3,cultural relics,N,0,N,0,420.98,0.52
+2023,4,"Population growth, earth",N,0,N,0,423.36,0.74
+2023,5,"Elephant, animal",N,0,N,0,424,0.71
+2023,6,"Mountain, forest, natural view",N,0,N,0,.,.
+2023,7,Human Exploration,N,0,N,0,.,.
+2023,8,"Arctic, ice sheets",Y,1,Y,1,.,.
+2023,9,architecture,N,0,N,0,.,.
+2023,10,"space, universe",N,0,N,0,.,.
+2023,11,.,.,.,.,.,.,.
+2023,12,.,.,.,.,.,.,.
+2022,1,Recap of the pandemic,N,0,N,0,418.19,0.64
+2022,2,Architecture,N,0,N,0,419.28,0.61
+2022,3,Human Exploration,N,0,N,0,418.81,0.28
+2022,4,Human Exploration,N,0,N,0,420.23,0.28
+2022,5,Deforestation,Y,1,Y,1,420.99,0.44
+2022,6,"Human connection, Children, Birth",N,0,N,0,420.99,0.49
+2022,7,"Indigenous people, indigenous land",N,0,N,0,418.9,0.47
+2022,8,"Archaeology, Historical Sites",N,0,N,0,417.19,0.66
+2022,9,"Natural Landscape, American Land",N,0,N,0,415.95,0.64
+2022,10,Cat,N,0,N,0,415.78,0.45
+2022,11,Egyptian Pharoh ,N,0,N,0,417.51,0.6
+2022,12,Wasted land,Y,1,Y,1,418.95,0.54
+2021,1,"revolution, art, architecture",N,0,N,0,415.52,0.46
+2021,2,"virus, biology",N,0,N,0,416.75,0.58
+2021,3,"space, universe",N,0,N,0,417.64,0.7
+2021,4,air pollution,Y,1,Y,1,419.05,0.62
+2021,5,"whales, animal",N,0,N,0,419.13,0.44
+2021,6,"human portrait, history",N,0,N,0,418.94,0.56
+2021,7,"Heat, tree plantation",Y,1,Y,1,416.96,0.56
+2021,8,Human portrait,N,0,N,0,414.47,0.41
+2021,9,"solar system, space, universe",N,0,N,0,413.3,0.43
+2021,10,technology,N,0,N,0,413.93,0.59
+2021,11,"art, cultural relics",N,0,N,0,415.01,0.46
+2021,12,"animal, earth",N,0,N,0,416.71,0.59
+2020,1,"Biology, human disease",N,0,N,0,413.61,0.63
+2020,2,history,N,0,N,0,414.34,0.58
+2020,3,cloth recycle,N,0,Y,1,414.74,0.62
+2020,4,"earth, earth changes throughout time",Y,1,Y,1,416.45,0.7
+2020,5,Insects,N,0,Y,1,417.31,0.59
+2020,6,"Human portrait, history",N,0,N,0,416.6,0.59
+2020,7,"Natural view, mountain",N,0,N,0,414.62,0.64
+2020,8,"Human portrait, pandemic",N,0,N,0,412.78,0.63
+2020,9,"Technology, robots",N,0,N,0,411.52,0.68
+2020,10,"Dinosaur, history",N,0,N,0,411.51,0.68
+2020,11,"Pandemic, human health",N,0,N,0,413.12,0.64
+2020,12,"natural view, lake",N,0,Y,1,414.26,0.55
+2019,1,Urban development; medicine,N,0,N,0,411.03,0.71
+2019,2,Astronomy,N,0,N,0,411.96,0.84
+2019,3,"Human goals, Natural Landscape",N,0,N,0,412.18,0.63
+2019,4,"Medicine, medical advance",N,0,N,0,413.54,0.75
+2019,5,"Artwork, Artist",N,0,N,0,414.86,0.83
+2019,6,"Wildlife, Animals, Negative impacts of Tourtism",N,0,Y,1,414.16,0.77
+2019,7,Space exploration,N,0,N,0,411.97,0.75
+2019,8,"Sea level, Migration, Mother & Son, Changes",Y,1,Y,1,410.18,0.74
+2019,9,"Artic, rise in temperatures, the planet",Y,1,Y,1,408.76,0.75
+2019,10,"Rhino, Extinction",N,0,Y,1,408.75,0.63
+2019,11,"females, female empowerment",N,0,N,0,410.48,0.56
+2019,12,"Archaeology, Historical Sites",N,0,N,0,411.98,0.66
+2018,1,"Bird, animal",N,0,N,0,408.15,0.44
+2018,2,"Space, technology",N,0,N,0,408.52,0.46
+2018,3,"Human portrait, space",N,0,N,0,409.59,0.5
+2018,4,"Human portrait, social issue",N,0,N,0,410.45,0.3
+2018,5,"Art, human portrait",N,0,N,0,411.44,0.38
+2018,6,"Glacier, arctic",Y,1,Y,1,410.99,0.47
+2018,7,"Human portrait, sports",N,0,N,0,408.9,0.39
+2018,8,"Human portrait, health, sleep",N,0,N,0,407.16,0.45
+2018,9,"Human portrait, health",N,0,N,0,405.71,0.53
+2018,10,"Human portrait, animal, culture",N,0,N,0,406.19,0.59
+2018,11,"Natural view, human portrait, horse",N,0,N,0,408.21,0.72
+2018,12,cultural relics,N,0,N,0,409.27,0.56
+2017,1,"Human portrait, social issue",N,0,N,0,406.36,0.9
+2017,2,"Ocean, animal",N,0,Y,1,406.66,0.6
+2017,3,"Human portrait, history, culture",N,0,N,0,407.54,0.61
+2017,4,"AI, technology, robot",N,0,N,0,409.22,0.4
+2017,5,"Human portrait, science",N,0,N,0,409.89,0.49
+2017,6,"text, science, phycology",N,0,N,0,409.08,0.51
+2017,7,"Ocean, antarctica",N,0,Y,1,407.33,0.68
+2017,8,"Space, universe",N,0,N,0,405.32,0.71
+2017,9,"Human health, science, biology",N,0,N,0,403.57,0.58
+2017,10,Human portrait,N,0,N,0,403.82,0.51
+2017,11,"Natural view, waterfall",N,0,N,0,405.31,0.39
+2017,12,"Human portrait, art, religion",N,0,N,0,407,0.58
+2016,1,Animals,N,0,N,0,402.73,0.64
+2016,2,"Fruits, Vegetables",N,0,N,0,404.25,0.92
+2016,3,"History, War, UK",N,0,N,0,405.06,0.83
+2016,4,"Natural Landscape, Nature",N,0,Y,1,407.6,1.06
+2016,5,"Natural Landscape, Nature",N,0,Y,1,407.9,0.93
+2016,6,"Egpytian Treasure, Theft",N,0,N,0,406.99,1
+2016,7,"Forensic science, Advancement in science",N,0,N,0,404.59,0.78
+2016,8,"DNA Revolution, Scientific Advancement",N,0,N,0,402.45,0.84
+2016,9,Medical advancement,N,0,N,0,401.23,0.86
+2016,10,"Nature, Human environment interaction",N,0,Y,1,401.79,0.83
+2016,11,Space exploration,N,0,N,0,403.72,0.86
+2016,12,"Religion, Fatih",N,0,N,0,404.64,0.64
+2015,1,"Art, history",N,0,N,0,400.18,0.54
+2015,2,"Human portrait, health, history",N,0,N,0,400.55,0.57
+2015,3,"Space, technology, science, space exploration",N,0,N,0,401.74,0.46
+2015,4,"human portrait, history",N,0,N,0,403.34,0.46
+2015,5,"Dolphin, animal",N,0,N,0,404.15,0.54
+2015,6,"Plant, science",N,0,N,0,402.97,0.38
+2015,7,"Space, technology",N,0,N,0,401.46,0.55
+2015,8,"Human portrait, architecture, culture, religion",N,0,N,0,399.11,0.49
+2015,9,"Ivory, crime",N,0,N,0,397.82,0.58
+2015,10,"Science, biology, human portrait",N,0,N,0,398.49,0.59
+2015,11,"Earth, climate",Y,1,Y,1,400.27,0.72
+2015,12,"Art, cultural relics",N,0,N,0,402.06,0.75
+2014,1,"Indigenous people, indigenous land",N,0,N,0,398.04,0.57
+2014,2,"Neuroscience, ",N,0,N,0,398.27,0.31
+2014,3,Space Exploration,N,0,N,0,399.91,0.57
+2014,4,"Exotic pets, ",N,0,N,0,401.51,0.72
+2014,5,Food,N,0,N,0,401.96,0.48
+2014,6,"Animals, Heroism",N,0,N,0,401.43,0.66
+2014,7,Space Exploration,N,0,N,0,399.27,0.44
+2014,8,Monuments,N,0,N,0,397.18,0.45
+2014,9,Roman Statues,N,0,N,0,395.54,0.46
+2014,10,Prehistoric Creatures,N,0,N,0,396.16,0.57
+2014,11,"Insects, Biology",N,0,N,0,397.4,0.52
+2014,12,Food,N,0,N,0,399.08,0.52
+2013,1,"Space, technology, human exploration",N,0,N,0,395.78,0.63
+2013,2,"Architecture, history",N,0,N,0,397.03,0.76
+2013,3,"Natural resources, fire, technology",N,0,N,0,397.66,0.78
+2013,4,Extinct animals,N,0,Y,1,398.64,0.57
+2013,5,"Human portrait, health",N,0,N,0,400.02,0.78
+2013,6,"Human portrait, technology, human exploration",N,0,N,0,398.81,0.73
+2013,7,"Solar system, space, universe",N,0,N,0,397.51,0.75
+2013,8,"Food, health",N,0,N,0,395.39,0.71
+2013,9,"Ocean, architecture, statue, rising sea",Y,1,Y,1,393.72,0.61
+2013,10,"Human portrait, social issue",N,0,N,0,393.9,0.67
+2013,11,"Human portrait, natural disaster",N,0,N,0,395.36,0.55
+2013,12,"Human, animal, natural view",N,0,N,0,397.03,0.62
+2012,1,"Human portrait, biology",N,0,N,0,393.31,0.46
+2012,2,"Animal, biology",N,0,N,0,394.04,0.51
+2012,3,"Art, history",N,0,N,0,394.59,0.46
+2012,4,"Titanic, history",N,0,N,0,396.38,0.75
+2012,5,History,N,0,N,0,396.93,0.64
+2012,6,"Space, solar system",N,0,N,0,395.91,0.5
+2012,7,"History, statue, architecutre",N,0,N,0,394.56,0.47
+2012,8,"Human, animal, human exploration",N,0,N,0,392.59,0.58
+2012,9,Natural disaster,N,0,Y,1,391.32,0.52
+2012,10,"Ivory, crime, history",N,0,N,0,391.27,0.53
+2012,11,"Geography, island",N,0,N,0,393.2,0.7
+2012,12,"Human, natural view, tree",N,0,N,0,394.57,0.64
+2011,1,"Urban, Population",N,0,N,0,391.5,0.67
+2011,2,Historical landmark,N,0,N,0,392.05,0.42
+2011,3,Animal,N,0,N,0,392.8,0.37
+2011,4,"History, Archaeology, Historical Landmark",N,0,N,0,393.44,0.2
+2011,5,"Natural Landmark, Nature",N,0,Y,1,394.41,0.31
+2011,6,"Religion, Fatih",N,0,N,0,393.95,0.4
+2011,7,"History, Historical Figures",N,0,N,0,392.72,0.59
+2011,8,"Nature, Wildlife, Animals",N,0,Y,1,390.33,0.46
+2011,9,Human advancement,N,0,N,0,389.28,0.58
+2011,10,"Psychology, Neuroscience",N,0,N,0,389.19,0.45
+2011,11,"War, History, Mystery",N,0,N,0,390.48,0.41
+2011,12,Reglion,N,0,N,0,392.06,0.53
+2010,1,"robot, ai, technology",N,0,N,0,388.91,0.45
+2010,2,"Human portrait, culture, social issue",N,0,N,0,390.41,0.7
+2010,3,"Animal, wolf",N,0,N,0,391.37,0.6
+2010,4,"text, water, science",N,0,N,0,392.67,0.75
+2010,5,"Natural disaster, volcano",N,0,N,0,393.21,0.73
+2010,6,"Landscope, island, ice sheet",Y,1,Y,1,392.38,0.69
+2010,7,"Archaeology, science",N,0,N,0,390.41,0.56
+2010,8,"Natural view, human exploration",N,0,N,0,388.54,0.58
+2010,9,"cultural relics, history",N,0,N,0,387.03,0.54
+2010,10,Animal,N,0,N,0,387.43,0.73
+2010,11,"Animal, natural view",N,0,N,0,388.87,0.68
+2010,12,Art,N,0,N,0,389.99,0.61
+2009,1,"Beauty, Gold",N,0,N,0,387.17,0.36
+2009,2,"Evolution, Nature",N,0,Y,1,387.7,0.42
+2009,3,Energy conservation,Y,1,Y,1,389.04,0.71
+2009,4,"Egyptian history, Female empowerment",N,0,N,0,389.76,0.62
+2009,5,"Prehistoric animals, Science",N,0,Y,1,390.36,0.41
+2009,6,"Historical landmark, Religion",N,0,N,0,389.7,0.44
+2009,7,"Ancient Civilization, Human Environment interaction",N,0,Y,1,388.24,0.42
+2009,8,Natural geographic landamarks,N,0,Y,1,386.29,0.51
+2009,9,"Urbanization, deforestation",N,0,Y,1,384.95,0.4
+2009,10,"Nature, Wilderness",N,0,Y,1,384.64,0.37
+2009,11,"Egyptian history, Animals",N,0,N,0,386.23,0.47
+2009,12,Space exploration,N,0,N,0,387.63,0.48
+2008,1,volcano,N,0,N,0,385.78,0.7
+2008,2,"human portrait, history",N,0,N,0,386.06,0.51
+2008,3,"God, animal, biology",N,0,N,0,386.28,0.38
+2008,4,"Human, animal, natural view",N,0,N,0,387.34,0.16
+2008,5,"cultural relics, text, history",N,0,N,0,388.78,0.52
+2008,6,"Statues, architecture, history",N,0,N,0,387.99,0.43
+2008,7,"Animal, gorillars",N,0,Y,1,386.61,0.49
+2008,8,"cultural relics, History",N,0,N,0,384.32,0.54
+2008,9,"Seed, agriculture",N,0,N,0,383.41,0.58
+2008,10,"Human portrait, science, biology",N,0,N,0,383.21,0.48
+2008,11,"City view, light pollution",N,0,Y,1,384.41,0.45
+2008,12,"Architecture, history",N,0,N,0,385.79,0.42
+2007,1,"Environmental Science, Volcanic Activity ",N,0,Y,1,383.1,0.4
+2007,2,"Egyption history, human figures",N,0,N,0,384.12,0.45
+2007,3,"Animals, Psycology, Neuroscience",N,0,N,0,384.81,0.51
+2007,4,"Migration, African History, Human-animal interaction",N,0,N,0,386.73,0.5
+2007,5,"Chinese History, Archaeology",N,0,N,0,386.78,0.4
+2007,6,"Landmarks, Archaeology",N,0,N,0,386.33,0.54
+2007,7,"Mystery, Animal Cruelty",N,0,Y,1,384.73,0.54
+2007,8,"Iranian History, Archaeology",N,0,N,0,382.24,0.43
+2007,9,"Food, Agriculture, Biology",N,0,Y,1,381.2,0.57
+2007,10,"Archaelogy, prehistoric",N,0,N,0,381.37,0.54
+2007,11,Night,N,0,N,0,382.7,0.62
+2007,12,"Archaeology, Historical Sites",N,0,N,0,384.19,0.57
+2006,1,Natural view,N,0,N,0,381.58,0.78
+2006,2,"Human portrait, relationship, biology, chemistry",N,0,N,0,382.4,0.66
+2006,3,"Human, text, biology",N,0,N,0,382.86,0.5
+2006,4,"Natural disaster, history",N,0,N,0,384.8,0.61
+2006,5,"Polar bear, animal",Y,1,Y,1,385.22,0.67
+2006,6,"Sports, soccer, human",N,0,N,0,384.24,0.48
+2006,7,"Panda, animal",N,0,N,0,382.65,0.45
+2006,8,"Natural disatser, hurrianes",N,0,N,0,380.6,0.44
+2006,9,"statue, international relationship",N,0,N,0,379.04,0.57
+2006,10,"Natural view, world park",N,0,Y,1,379.33,0.57
+2006,11,"Archaeology, biology",N,0,N,0,380.35,0.48
+2006,12,"Solar system, space, universe",N,0,N,0,382.02,0.45
+2005,1,Bevarage,N,0,N,0,378.63,0.39
+2005,2,"Animals, Nature",N,0,Y,1,379.91,0.49
+2005,3,"Psychology, Neuroscience",N,0,N,0,380.95,0.5
+2005,4,Prehistoric humans,N,0,N,0,382.48,0.51
+2005,5,"Toxicology, chemistry",N,0,N,0,382.64,0.48
+2005,6,"Archaeology, Egyptian History, Historical figures",N,0,N,0,382.4,0.67
+2005,7,"Biology, Medical advancement",N,0,N,0,380.93,0.87
+2005,8,"Natural Resources, Energy Consumption",Y,1,Y,1,378.93,0.73
+2005,9,Geography,N,0,N,0,376.89,0.66
+2005,10,"Disease, Epidemic, Biohazard",N,0,N,0,377.19,0.68
+2005,11,"Longetivity, Fitness",N,0,N,0,378.54,0.59
+2005,12,"Extinct animals, Biology",N,0,Y,1,380.31,0.7
+2004,1,"Mars, astronomy",N,0,N,0,377.17,0.56
+2004,2,polar bears,Y,1,Y,1,378.05,0.59
+2004,3,seal,N,0,Y,1,379.06,0.64
+2004,4,tornadoes,N,0,N,0,380.54,0.69
+2004,5,children and dogs,N,0,N,0,380.8,0.53
+2004,6,cheap oil,N,0,N,0,379.87,0.37
+2004,7,"sun bursts, astronomy",N,0,N,0,377.65,0.2
+2004,8,"fat, health",N,0,N,0,376.17,0.43
+2004,9,global warming,Y,1,N,0,374.43,0.29
+2004,10,hawaiian volcanoes,N,0,N,0,374.63,0.35
+2004,11,"chamelons, evolutino",N,0,N,0,376.33,0.4
+2004,12,"astronomy, universe",N,0,N,0,377.68,0.4
+2003,1,Egypt,N,0,N,0,375.07,0.64
+2003,2,Galaxy,N,0,N,0,375.82,0.66
+2003,3,dinonaurs,N,0,N,0,376.64,0.63
+2003,4,mammals/human,N,0,N,0,377.92,0.73
+2003,5,human headshot/everest,N,0,N,0,378.78,0.76
+2003,6,siberian gold,N,0,N,0,378.46,0.74
+2003,7,"soldier headshot, korean",N,0,N,0,376.88,0.73
+2003,8,"amazon, tribal person headshot",N,0,N,0,374.57,0.68
+2003,9,zebra,N,0,Y,1,373.34,0.65
+2003,10,saudi arabia person ,N,0,N,0,373.31,0.7
+2003,11,"archaeology, sun god's trasure",N,0,N,0,374.84,0.65
+2003,12,aircraft,N,0,N,0,376.17,0.59
+2002,1,wolf and dog,N,0,N,0,372.7,0.52
+2002,2,volcanos,N,0,N,0,373.37,0.45
+2002,3,diamonds,N,0,Y,1,374.3,0.45
+2002,4,Afghan refugee,N,0,N,0,375.19,0.44
+2002,5,mummies,N,0,N,0,375.93,0.51
+2002,6,D-Day,N,0,N,0,375.69,0.61
+2002,7,eagle,N,0,Y,1,374.16,0.67
+2002,8,human origination,N,0,N,0,372.03,0.61
+2002,9,meerkats,N,0,Y,1,370.92,0.7
+2002,10,nile river,N,0,N,0,370.73,0.58
+2002,11,skin,N,0,N,0,372.43,0.67
+2002,12,owls,N,0,N,0,373.98,0.69
+2001,1,"space, astronaut",N,0,N,0,370.76,0.35
+2001,2,insects,N,0,N,0,371.69,0.54
+2001,3,gorilla,N,0,Y,1,372.63,0.51
+2001,4,"pharaoh, cutlure",N,0,N,0,373.55,0.42
+2001,5,"Marco polo, culture",N,0,N,0,374.03,0.61
+2001,6,Last Lion in Asia,N,0,Y,1,373.4,0.41
+2001,7,grizzly,N,0,Y,1,371.68,0.45
+2001,8,human ,N,0,Y,1,369.78,0.41
+2001,9,egypt,N,0,N,0,368.34,0.32
+2001,10,leopard,N,0,Y,1,368.61,0.39
+2001,11,russia,N,0,N,0,369.94,0.38
+2001,12,art and religion,N,0,N,0,371.42,0.43
+2000,1,space and universe,N,0,N,0,369.45,0.3
+2000,2,orphan gorillas,N,0,Y,1,369.71,0.12
+2000,3,"bird, national park",N,0,Y,1,370.75,0.25
+2000,4,"Shark, research, exploration",N,0,N,0,371.98,0.22
+2000,5,"Vikings, history",N,0,N,0,371.75,0.17
+2000,6,"Ancient Civilization, goose",N,0,N,0,371.87,0.38
+2000,7,archaeology,N,0,N,0,370.02,0.11
+2000,8,"Sydney, Olympics",N,0,N,0,368.27,0.33
+2000,9,"Human head shot, culture, humanities",N,0,N,0,367.15,0.6
+2000,10,"Frog, wilderness",N,0,Y,1,367.18,0.45
+2000,11,"Libya, art, history ",N,0,N,0,368.53,0.45
+2000,12,Polar bear,N,0,Y,1,369.83,0.43
+1999,1,"Coral, animal",N,0,Y,1,368.35,0.81
+1999,2,"Insects, biodiversity",N,0,Y,1,369.28,0.87
+1999,3,"Natural disaster, hurricane",N,0,N,0,369.84,0.68
+1999,4,"War, history",N,0,N,0,371.15,0.64
+1999,5,Animal,N,0,N,0,371.12,0.42
+1999,6,"Human portrait, culture",N,0,N,0,370.46,0.36
+1999,7,"Human portrait, culture",N,0,N,0,369.61,0.44
+1999,8,"Human portrait, culture",N,0,N,0,367.06,0.26
+1999,9,"Adventure, human exploration",N,0,N,0,364.95,0.22
+1999,10,"Human, animal, pig, biology",N,0,N,0,365.52,0.27
+1999,11,"cultural relics, history",N,0,N,0,366.88,0.33
+1999,12,"Animal, cheetahs",N,0,N,0,368.26,0.26
+1998,1,"Dessert, Millenium",N,0,N,0,365.39,0.59
+1998,2,"Exploration, Tundra, ",N,0,Y,1,366.1,0.52
+1998,3,Insects,N,0,Y,1,367.36,0.74
+1998,4,"Animals, Nature, Endagered Species",N,0,Y,1,368.79,0.63
+1998,5,"Children, Despair",Y,1,Y,1,369.56,0.76
+1998,6,"Railroad, Humans",N,0,N,0,369.13,0.93
+1998,7,"Biology, Paleontology, Prehistoric Creatures",N,0,Y,1,367.98,0.97
+1998,8,"Space Exploration, Planets , NASA",N,0,N,0,366.1,1.02
+1998,9,"Egyptian History, Statues",N,0,N,0,364.16,1.03
+1998,10,"Population, Children",N,0,N,0,364.54,0.99
+1998,11,"Ocean, Surf",N,0,Y,1,365.67,0.83
+1998,12,"Archaeology, Historical Sites, Natural Landscape",N,0,Y,1,367.3,0.77
+1997,1,"Ocean, Sea animals, Deep Sea Creatures",N,0,Y,1,363.24,0.29
+1997,2,Animal,N,0,Y,1,364.21,0.23
+1997,3,Sea animals,N,0,Y,1,364.65,0.1
+1997,4,"Space Exploration, Space Images, NASA",N,0,N,0,366.48,0.49
+1997,5,"Country, Ethnicity, Anniversary",N,0,N,0,366.77,0.42
+1997,6,"Ethnicity, Race, Female",N,0,N,0,365.73,0.18
+1997,7,Technological advancement,N,0,N,0,364.46,0.21
+1997,8,Country,N,0,Y,1,362.4,0.24
+1997,9,"Canyon, Eploration, Human, Natural Landscape, Country",N,0,Y,1,360.44,0.21
+1997,10,"Country, Children",N,0,N,0,360.98,0.35
+1997,11,"Animals, Ponds, Algae",N,0,Y,1,362.65,0.45
+1997,12,"Animals, Parent-Child",N,0,Y,1,364.51,0.59
+1996,1,"archaeology, history, biology",N,0,N,0,362.2,0.6
+1996,2,"Human exploration, glacier, adventure",N,0,N,0,363.36,0.65
+1996,3,"Penguins, animal",N,0,N,0,364.28,0.64
+1996,4,"Human exploration, adventure",N,0,N,0,364.69,0.34
+1996,5,"archaeology, dinosaur",N,0,N,0,365.25,0.39
+1996,6,"Human portrait, culture",N,0,N,0,365.06,0.48
+1996,7,"Animal, cheetahs, natural parks",N,0,Y,1,363.69,0.53
+1996,8,"Culture, history",N,0,N,0,361.55,0.62
+1996,9,Natural view,N,0,N,0,359.69,0.38
+1996,10,"Human portrait, culture, treasure",N,0,N,0,359.72,0.44
+1996,11,"Space, universe",N,0,N,0,361.04,0.4
+1996,12,"Art, history",N,0,N,0,362.39,0.44
+1995,1,"Sharks, animal",N,0,N,0,360.04,0.47
+1995,2,"Art, history",N,0,N,0,361,0.55
+1995,3,"Trapped animal, endanger animals",N,0,Y,1,361.98,0.52
+1995,4,"Human portrait, fashion, culture",N,0,N,0,363.44,0.58
+1995,5,"Architecutre, landscape",N,0,N,0,363.83,0.57
+1995,6,"Brain, biology, science",N,0,N,0,363.33,0.66
+1995,7,"Elephant, natural resources",N,0,Y,1,361.78,0.63
+1995,8,Human portrait,N,0,N,0,359.33,0.49
+1995,9,"Birds, vanihing species",N,0,Y,1,358.32,0.69
+1995,10,"Gorillars, endangered animal",N,0,Y,1,358.14,0.54
+1995,11,"Fishing, exploiting ocean",N,0,Y,1,359.61,0.55
+1995,12,"Human, animal",N,0,N,0,360.82,0.48
+1994,1,bird,N,0,N,0,358.36,0.35
+1994,2,"Sea turtles, animal, endangered animal",N,0,Y,1,359.04,0.45
+1994,3,"City life, culture, human",N,0,N,0,360.11,0.42
+1994,4,"animals, endangered",N,0,Y,1,361.36,0.55
+1994,5,"Human portrait, culture",N,0,N,0,361.78,0.41
+1994,6,"Human portrait, parent and child, culture",N,0,N,0,360.94,0.36
+1994,7,"recycling, old clothes",N,0,Y,1,359.51,0.57
+1994,8,"animal, lion",N,0,N,0,357.59,0.51
+1994,9,"animal, culture, human portrait",N,0,N,0,355.86,0.49
+1994,10,"Natural view, national parks",N,0,N,0,356.21,0.56
+1994,11,"Animal, buffalo",N,0,N,0,357.65,0.6
+1994,12,"Monkey, animal",N,0,N,0,359.1,0.58
+1993,1,"Prehistoric creatures, Paleontology",N,0,Y,1,357.1,0.21
+1993,2,"Endangered Species, Wild animals, Newborns",N,0,Y,1,357.42,0.06
+1993,3,"Country, Politics, Political Leaders",N,0,N,0,358.59,0.17
+1993,4,"Parent-Child, Military",N,0,N,0,359.39,0.05
+1993,5,"Water Supply, Lack of Resources, Geography",N,0,Y,1,360.3,0.16
+1993,6,Bodies of Water,N,0,Y,1,359.64,0.06
+1993,7,"Lighting, Nature",N,0,Y,1,357.46,0.09
+1993,8,"Continent, Human, Despair, Natural Landscape",N,0,N,0,355.76,0.22
+1993,9,"Ethnicity, Country, Animals, Children",N,0,Y,1,354.14,0.32
+1993,10,Children,N,0,N,0,354.23,0.23
+1993,11,"Bodies of Water, Sea animals, nature",N,0,Y,1,355.53,0.31
+1993,12,"Glass, Drink",N,0,n,0,357.03,0.38
+1992,1,"Sailing, Bodies of Water, Exploration",N,0,Y,1,356.34,0.4
+1992,2,"Wildlife, Animals",N,0,Y,1,357.21,0.39
+1992,3,"Animals, Human, Biology",N,0,Y,1,357.97,0.18
+1992,4,"Sea animals, humans",N,0,Y,1,359.22,0.13
+1992,5,"Animals, Country",N,0,Y,1,359.71,0.13
+1992,6,"Bodies of Water, Humans",N,0,Y,1,359.44,0.34
+1992,7,"Animals, Parent-Child",N,0,Y,1,357.15,0.24
+1992,8,"Ethnicity, Senior Citizens, Despair",N,0,N,0,354.99,0.29
+1992,9,"Sea animals, Ocean, Endangered Species",N,0,Y,1,353.01,0.19
+1992,10,"Environmental Science, Natural Habitats ",N,0,Y,1,353.41,0.28
+1992,11,"Optomalogy, Sight",N,0,N,0,354.42,0.15
+1992,12,"Volcanic Activity, Geology",N,0,Y,1,355.68,0.13
+1991,1,"Human portrait, family, culture",N,0,N,0,354.93,0.3
+1991,2,"Child, cage, culture",N,0,N,0,355.82,0.2
+1991,3,"Natural view, human exploration",N,0,N,0,357.33,0.44
+1991,4,"Sport, human portrait",N,0,N,0,358.77,0.67
+1991,5,"Elephant, animal",N,0,Y,1,359.23,0.52
+1991,6,"Human portrait, suffer",N,0,N,0,358.23,0.52
+1991,7,"art, history",N,0,N,0,356.3,0.4
+1991,8,Natural disaster,N,0,N,0,353.97,0.26
+1991,9,"Animal, illegal wildlife trade",N,0,Y,1,352.34,0.27
+1991,10,"Art, history",N,0,N,0,352.43,0.21
+1991,11,"Human portrait, culture",N,0,N,0,353.89,0.21
+1991,12,"Human portrait, culture, social issue",N,0,N,0,355.21,0.23
+1990,1,Alaska oil spill; bird in oil,N,0,Y,1,353.86,0.22
+1990,2,A Soviet Sea dying,N,0,Y,1,355.1,0.47
+1990,3,siberia; landscape,N,0,N,0,355.75,0.47
+1990,4,gorilla; animal,N,0,Y,1,356.38,0.19
+1990,5,people; east harlem,N,0,N,0,357.38,0.4
+1990,6,dancers? Austin,N,0,N,0,356.39,0.27
+1990,7,cane; animal,N,0,Y,1,354.89,0.24
+1990,8,yugoslavakia,N,0,N,0,353.06,0.35
+1990,9,children; manila,N,0,N,0,351.38,0.37
+1990,10,a fuji water creature,Y,1,Y,1,351.69,0.39
+1990,11,the baltic nations; people and statue,N,0,N,0,353.14,0.45
+1990,12,bostwana; animal,N,0,Y,1,354.41,0.43
+1989,1,"Human, animal",N,0,N,0,353.07,0.73
+1989,2,"Natural disaster, animal",N,0,N,0,353.43,0.49
+1989,3,Human protrait,N,0,N,0,354.08,0.45
+1989,4,"Animal, endangered animal",N,0,Y,1,355.72,0.58
+1989,5,"Dancing, human activity",N,0,N,0,355.95,0.45
+1989,6,"Dinosaur, history",N,0,N,0,355.44,0.44
+1989,7,"Architecture, culture, history",N,0,N,0,354.05,0.35
+1989,8,"Elephant, animals",N,0,N,0,351.84,0.39
+1989,9,"Human portrait, culture, history",N,0,N,0,350.09,0.32
+1989,10,"Human portrait, culture",N,0,N,0,350.33,0.27
+1989,11,"Human portrait, culture",N,0,N,0,351.55,0.32
+1989,12,Art,N,0,N,0,352.91,0.37
+1988,1,"Scientific advancement, Animals, Nature, Knowledge accumulation",N,0,Y,1,350.51,0.51
+1988,2,"Country, Parent - Child",N,0,N,0,351.7,0.8
+1988,3,"Exploration, Tundra, Ocean ",N,0,Y,1,352.5,0.77
+1988,4,"Exploration, Ocean, Deep Sea",N,0,Y,1,353.67,0.65
+1988,5,"Human Figure, Resources, Invention",N,0,N,0,354.35,0.62
+1988,6,"Country, Politics, Parent-Child",N,0,N,0,353.88,0.65
+1988,7,"Despair, Death, Genocide",N,0,N,0,352.8,0.74
+1988,8,"Animals, Endangered Species, Wildlife",N,0,Y,1,350.49,0.66
+1988,9,"Anniversary, Recap",N,0,Y,1,348.97,0.67
+1988,10,"History, Archaeology, Human sculpture ",N,0,N,0,349.37,0.76
+1988,11,"Human Exploration, Nature",N,0,Y,1,350.42,0.67
+1988,12,"Earth, Planet, Environmental Conservation",Y,1,Y,1,351.62,0.67
+1987,1,"Technology, biology, medicine",N,0,N,0,348.73,0.56
+1987,2,"Human portrait, culture",N,0,N,0,348.92,0.41
+1987,3,"Plants, sun flowers, plane",N,0,N,0,349.81,0.45
+1987,4,"Seals, ocean, animal",N,0,N,0,351.4,0.44
+1987,5,"Arctic wolf, animal",N,0,N,0,352.15,0.47
+1987,6,"Natural view, human exploration",N,0,N,0,351.58,0.46
+1987,7,"Human portrait, food, health",N,0,N,0,350.21,0.56
+1987,8,"Human portrait, child, culture",N,0,N,0,348.2,0.59
+1987,9,Cultural relics,N,0,N,0,346.66,0.34
+1987,10,"Human portrait, social issue, culture",N,0,N,0,346.72,0.55
+1987,11,"Human portrait, child",N,0,N,0,348.08,0.54
+1987,12,"Human exploration, Archaeology",N,0,N,0,349.28,0.52
+1986,1,Art,N,0,N,0,346.78,0.38
+1986,2,"Human portrait, culture",N,0,N,0,347.48,0.31
+1986,3,"Panda, animal",N,0,N,0,348.25,0.1
+1986,4,"Cultural relics, history",N,0,N,0,349.86,0.34
+1986,5,Animal,N,0,N,0,350.52,0.36
+1986,6,Animal,N,0,N,0,349.98,0.38
+1986,7,Statue,N,0,N,0,348.25,0.39
+1986,8,"Human portrait, history",N,0,N,0,346.17,0.26
+1986,9,"Human portrait, exploration",N,0,N,0,345.48,0.59
+1986,10,"Technology, space exploration, history",N,0,N,0,344.82,0.43
+1986,11,History,N,0,N,0,346.22,0.43
+1986,12,"Human exploration, history",N,0,N,0,347.49,0.4
+1985,1,"Animals, Endangered Species, Hot and Cold Climate",Y,1,Y,1,345.48,0.37
+1985,2,"Egyption culture, Mummies",N,0,N,0,346.41,0.43
+1985,3,"Hazardous Waste, Human",N,0,N,0,347.91,0.65
+1985,4,"History, Culture, Music",N,0,N,0,348.66,0.37
+1985,5,"War, Memorial, Soldiers, Country",N,0,N,0,349.28,0.43
+1985,6,"War, Country, Refugee",N,0,N ,0,348.65,0.43
+1985,7,"Ocean Exploration, Scuba Diving, Clean-up",N,0,Y,1,346.9,0.32
+1985,8,"Aquestrian, Human-animal interaction",N,0,N,0,345.26,0.44
+1985,9,"Farm, Animal, livestock",N,0,N,0,343.47,0.55
+1985,10,"Country, Ethnicity, Incognito",N,0,N,0,343.35,0.44
+1985,11,"Paleontology, Archaeology, Exploration",N,0,N,0,344.73,0.41
+1985,12,"Ocean exploration, shipwreck",N,0,Y,1,346.12,0.32
+1984,1,"Sea animals, Ocean, Endangered Species",N,0,Y,1,344.21,0.77
+1984,2,"Animals, Human-animal interaction, Weather",Y,1,Y,1,344.92,0.62
+1984,3,"Technology, Animal Murder, Animal Statue",N,0,N,0,345.68,0.67
+1984,4,"Human-animal interaction, Tundra",N,0,N,0,347.38,0.58
+1984,5,"Archaeology, Palentology, History",N,0,N,0,347.78,0.47
+1984,6,"Country, Ethnicity, Technological advancement",N,0,N,0,347.16,0.4
+1984,7,"History, Slavery, Oppression",N,0,N,0,345.79,0.43
+1984,8,"Technology, human exploration",N,0,N,0,343.74,0.36
+1984,9,"Ocean exploration, Sea animals, Human-animal interaction, Marine biology",N,0,Y,1,341.59,0.33
+1984,10,"Allergy, Human activity",N,0,N,0,341.86,0.39
+1984,11,"Chocolate, Artisan, Edible sculpture ",N,0,N,0,343.31,0.44
+1984,12,"Environmental Cleaning, Monsoons",N,0,Y,1,345,0.52
+1983,1,"Rain forest, animal",N,0,N,0,341.57,0.19
+1983,2,"Human portrait, culture",N,0,N,0,342.79,0.3
+1983,3,History,N,0,N,0,343.37,0.17
+1983,4,Recycling,N,0,Y,1,345.39,0.42
+1983,5,"Art, history",N,0,N,0,346.14,0.4
+1983,6,"Space, universe",N,0,N,0,345.76,0.55
+1983,7,"Technology, human exploration",N,0,N,0,344.32,0.55
+1983,8,"Technology, human exploration",N,0,N,0,342.51,0.67
+1983,9,"Technology, human exploration, space",N,0,N,0,340.46,0.61
+1983,10,"Human portrait, culture",N,0,N,0,340.53,0.63
+1983,11,Art,N,0,N,0,341.79,0.69
+1983,12,Art,N,0,N,0,343.2,0.71
+1982,1,"History, social issue",N,0,N,0,340.93,0.48
+1982,2,"Landscape, human, animal",N,0,N,0,341.76,0.36
+1982,3,"Human portrait, culture",N,0,N,0,342.78,0.34
+1982,4,"Human portrait, culture, history",N,0,N,0,343.96,0.4
+1982,5,"Cultural relics, architecture, statue, history",N,0,N,0,344.77,0.5
+1982,6,animal,N,0,N,0,343.88,0.39
+1982,7,Human exploration,N,0,N,0,342.42,0.47
+1982,8,"Human portrait, culture",N,0,N,0,340.24,0.52
+1982,9,"Human exploration, fishing",N,0,N,0,338.38,0.42
+1982,10,Technology,N,0,N,0,338.41,0.4
+1982,11,"Art, culture",N,0,N,0,339.44,0.26
+1982,12,Animal,N,0,N,0,340.78,0.26
+1981,1,strange looking cloud; nature,N,0,N,0,339.29,0.41
+1981,2,cane; animal,N,0,N,0,340.55,0.65
+1981,3,rocket; technology,N,0,N,0,341.63,0.46
+1981,4,arable land; nature and landscape,N,0,N,0,342.6,0.49
+1981,5,shark and a person diving; sea,N,0,N,0,343.04,0.47
+1981,6,children and a lamb,N,0,N,0,342.54,0.35
+1981,7,saturn; universe,N,0,N,0,340.82,0.4
+1981,8,mural; culture,N,0,N,0,338.48,0.24
+1981,9,children; culture,N,0,N,0,336.95,0.21
+1981,10,rocket; technology,N,0,N,0,337.05,0.27
+1981,11,dear,N,0,Y,1,338.57,0.38
+1981,12,pandas,N,0,Y,1,339.91,0.48
+1980,1,galaxy; universe,N,0,N,0,337.9,0.52
+1980,2,"cuture, human headshot",N,0,N,0,338.34,0.49
+1980,3,"cuture, human headshot",N,0,N,0,340.07,0.53
+1980,4,sea urchin; animal,N,0,N,0,340.93,0.62
+1980,5,cheetah; animal,N,0,N,0,341.45,0.65
+1980,6,baby and orangutans; animal,N,0,N,0,341.36,0.62
+1980,7,metal antique horse; culture,N,0,N,0,339.45,0.57
+1980,8,"relics building; culture, archaeology",N,0,N,0,337.67,0.58
+1980,9,Lots of camel riders in desert; humanity and nature and animal,N,0,N,0,336.25,0.68
+1980,10,bamboo and kendo; culture and humanity,N,0,N,0,336.14,0.57
+1980,11,winsor castle; culture and humanity,N,0,N,0,337.3,0.59
+1980,12,"culture, bizarre statue",N,0,N,0,338.29,0.44
