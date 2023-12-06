@@ -48,3 +48,6 @@
 Milestone 1: https://docs.google.com/document/d/1cHZPIl57EYzHqWuAV0WTfEzTLOtfPqZK3QV_jZWmCX8/edit?usp=sharing  
 Milestone 2: https://docs.google.com/document/d/1HWAdjcllrV_OlG0vXwu0Ju1_HyqQt44CszcLylESLyw/edit?usp=sharing  
 
+Article 1: https://medium.com/@MariosKapsis94/the-most-iconic-national-geographic-covers-cd3578870daa
+Article 2: https://www.nationalgeographic.com/photography/article/dedicated-to-our-mission-of-changing-the-world-for-the-better
+
